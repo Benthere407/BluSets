@@ -75,7 +75,7 @@ local blu = T{
     mode = 'safe',
 
     -- The minimum delay, in seconds, between packet sends when loading a spell set.
-    delay = 0.25,
+    delay = 0.75,
 
     -- The state of the spell set currently being loaded. (nil when idle.)
     loader = nil,
