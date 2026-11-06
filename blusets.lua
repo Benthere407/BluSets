@@ -21,7 +21,7 @@
 
 addon.name      = 'blusets';
 addon.author    = 'atom0s';
-addon.version   = '2.1';
+addon.version   = '2.1.1';
 addon.desc      = 'Manage blue magic spells with a window and slash commands, for Ashita v4 / VanaCore (CatsEyeXI).';
 addon.link      = 'https://github.com/Benthere407/BluSets';
 
